@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AIAssistantCustomInstructionsStorage">
+    <option name="instructions">
+      <map>
+        <entry key="AIAssistant.VCS.GenerateCommitMessage">
+          <value>
+            <AIAssistantStoredInstruction>
+              <option name="actionId" value="AIAssistant.VCS.GenerateCommitMessage" />
+              <option name="content" value="Avoid overly detailed descriptions or unnecessary details.&#10;Start with a short sentence, no more than 50 characters.&#10;At the end of the sentence, add two related emojis.&#10;Then leave a line blank and continue with a more detailed explanation. Before the detailed explanation write Detalhes do Commit: and then continue on the same line for the detailed explanation.&#10;At the end of the explanation, add a green check&#10;Write just one sentence for the first part and two or three sentences maximum for the detailed explanation.&#10;Write in Portuguese and in the first person plural of the future subjunctive.&#10;Leave a blank line." />
+            </AIAssistantStoredInstruction>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ef1454de-6217-4921-9918-d61992f21ed5" name="Changes" comment="Reestruturamos a organização dos arquivos 🗂️🔧&#10;&#10;Detalhes do Commit: Deletamos e adicionamos novos arquivos, além disso, reorganizamos e renomeamos o local de muitos arquivos para melhorar a estrutura do código-fonte, visando facilitar a manutenção e a compreensão do conteúdo em geral. ✅">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/.idea/exercicios-java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/src/exercicios/areatriangulo/AreaTriangulo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/src/exercicios/conversao/Converter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/src/exercicios/estoque/EstoqueMedio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/src/exercicios/idade/IdadeEmDias.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/src/exercicios/multiplicacaoedivisao/Divisao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/src/exercicios/multiplicacaoedivisao/Multiplicacao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/src/exercicios/numerosparimpar/NumeroParImpar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/src/exercicios/soma/Soma.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/src/exercicios/sucessoreantecessor/Antecessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/src/exercicios/sucessoreantecessor/Sucessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/src/exercicios/totadacompra/TotalCompras.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/src/exercicios/valores/ReajusteSalario.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="17" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+    <option name="jreName" value="17" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2i1qBv0MxFKXBLE6OQEr3DGCJDM" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.DadosDeUsuario.executor": "Run",
+    "Application.LerFrase.executor": "Run",
+    "Application.PositivoOuNegativo.executor": "Run",
+    "Application.Saudacao.executor": "Run",
+    "Application.ValorMaior.executor": "Run",
+    "Application.ValoresIguais.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/Repositorio GitHub/atividades-java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "ml.llm.AIAssistantPromptsLibrary",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef1454de-6217-4921-9918-d61992f21ed5" name="Changes" comment="" />
+      <created>1718668298178</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718668298178</updated>
+      <workItem from="1718668299381" duration="266000" />
+      <workItem from="1718668580840" duration="2231000" />
+      <workItem from="1718670863216" duration="1561000" />
+    </task>
+    <task id="LOCAL-00001" summary="Reestruturamos a organização dos arquivos 🗂️🔧&#10;&#10;Detalhes do Commit: Deletamos e adicionamos novos arquivos, além disso, reorganizamos e renomeamos o local de muitos arquivos para melhorar a estrutura do código-fonte, visando facilitar a manutenção e a compreensão do conteúdo em geral. ✅">
+      <option name="closed" value="true" />
+      <created>1718672281610</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718672281610</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Rename multiple exercise files and add new ones&#10;&#10;The existing exercise files have been renamed and moved to a more generalized package named 'exercicios' for better organization. Additionally, several new exercise files (such as 'PositivoOuNegativo', 'Saudacao', 'LerFrase', 'ValoresIguais', 'ValorMaior', and 'DadosDeUsuario') have been added. Few redundant ones like 'AreaTriangulo' are removed." />
+    <MESSAGE value="Removeremos e adicionaremos arquivos, além de atualizar a organização de pacotes &#10;&#10;Detalhes do Commit: Novos arquivos 'PositivoOuNegativo.java', 'Saudacao.java', 'LerFrase.java', 'ValoresIguais.java', 'ValorMaior.java' e 'DadosDeUsuario.java' serão adicionados. Organização de pacotes será atualizada para alocar os arquivos diretamente em 'src/exercicios', em vez de subpastas específicas. " />
+    <MESSAGE value="Reestruturamos a organização dos arquivos ️&#10;&#10;Detalhes do Commit: Deletamos e adicionamos novos arquivos, além disso, reorganizamos e renomeamos o local de muitos arquivos para melhorar a estrutura do código-fonte, visando facilitar a manutenção e a compreensão do conteúdo em geral. ✅" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reestruturamos a organização dos arquivos ️&#10;&#10;Detalhes do Commit: Deletamos e adicionamos novos arquivos, além disso, reorganizamos e renomeamos o local de muitos arquivos para melhorar a estrutura do código-fonte, visando facilitar a manutenção e a compreensão do conteúdo em geral. ✅" />
+  </component>
+</project>
