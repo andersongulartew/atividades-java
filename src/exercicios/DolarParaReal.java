@@ -1,4 +1,4 @@
-package src.exercicios.conversao;
+package src.exercicios;
 
 import java.util.Scanner;
 

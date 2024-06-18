@@ -1,4 +1,4 @@
-package src.exercicios.estoque;
+package src.exercicios;
 
 import java.util.Scanner;
 

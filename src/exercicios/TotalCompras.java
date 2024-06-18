@@ -1,6 +1,5 @@
-package src.exercicios.totadacompra;
+package src.exercicios;
 
-import javax.sound.sampled.Line;
 import java.util.Scanner;
 
 public class TotalCompras {

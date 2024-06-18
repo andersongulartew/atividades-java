@@ -1,4 +1,4 @@
-package src.exercicios.idade;
+package src.exercicios;
 
 import java.util.Scanner;
 

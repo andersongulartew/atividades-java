@@ -1,8 +1,8 @@
-package src.exercicios.numerosparimpar;
+package src.exercicios;
 
 import java.util.Scanner;
 
-public class NumeroParImpar {
+public class QuantidadesDeParImpar {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         boolean terminou = false;

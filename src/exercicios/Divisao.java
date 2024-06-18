@@ -1,4 +1,4 @@
-package src.exercicios.multiplicacaoedivisao;
+package src.exercicios;
 
 import java.util.Scanner;
 

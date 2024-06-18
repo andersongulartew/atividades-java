@@ -1,4 +1,4 @@
-package src.exercicios.soma;
+package src.exercicios;
 
 import java.util.Scanner;
 

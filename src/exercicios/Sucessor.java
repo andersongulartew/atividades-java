@@ -1,4 +1,4 @@
-package src.exercicios.sucessoreantecessor;
+package src.exercicios;
 
 import java.util.Scanner;
 
