@@ -18,7 +18,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef1454de-6217-4921-9918-d61992f21ed5" name="Changes" comment="Reestruturamos a organização dos arquivos 🗂️🔧&#10;&#10;Detalhes do Commit: Deletamos e adicionamos novos arquivos, além disso, reorganizamos e renomeamos o local de muitos arquivos para melhorar a estrutura do código-fonte, visando facilitar a manutenção e a compreensão do conteúdo em geral. ✅">
+    <list default="true" id="ef1454de-6217-4921-9918-d61992f21ed5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +60,7 @@
   "keyToString": {
     "Application.DadosDeUsuario.executor": "Run",
     "Application.LerFrase.executor": "Run",
+    "Application.MasculinoFeminino.executor": "Run",
     "Application.PositivoOuNegativo.executor": "Run",
     "Application.Saudacao.executor": "Run",
     "Application.ValorMaior.executor": "Run",
@@ -67,7 +68,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/Repositorio GitHub/atividades-java/src",
+    "last_opened_file_path": "E:/Repositorio GitHub/atividades-java",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.stylelint": "true",
     "node.js.detected.package.tslint": "true",
@@ -78,10 +79,27 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.archetype.catalogs",
+    "settings.editor.selected.configurable": "project.kotlinCompiler",
+    "settings.editor.splitter.proportion": "0.40876657",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="MasculinoFeminino" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="src.condicoes.MasculinoFeminino" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.condicoes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -105,6 +123,7 @@
       <workItem from="1718747898295" duration="178000" />
       <workItem from="1719876846990" duration="39000" />
       <workItem from="1720216878302" duration="173000" />
+      <workItem from="1720222991455" duration="727000" />
     </task>
     <task id="LOCAL-00001" summary="Reestruturamos a organização dos arquivos 🗂️🔧&#10;&#10;Detalhes do Commit: Deletamos e adicionamos novos arquivos, além disso, reorganizamos e renomeamos o local de muitos arquivos para melhorar a estrutura do código-fonte, visando facilitar a manutenção e a compreensão do conteúdo em geral. ✅">
       <option name="closed" value="true" />
