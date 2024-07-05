@@ -19,27 +19,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef1454de-6217-4921-9918-d61992f21ed5" name="Changes" comment="Reestruturamos a organização dos arquivos 🗂️🔧&#10;&#10;Detalhes do Commit: Deletamos e adicionamos novos arquivos, além disso, reorganizamos e renomeamos o local de muitos arquivos para melhorar a estrutura do código-fonte, visando facilitar a manutenção e a compreensão do conteúdo em geral. ✅">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/.idea/exercicios-java.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/src/exercicios/areatriangulo/AreaTriangulo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/src/exercicios/conversao/Converter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/src/exercicios/estoque/EstoqueMedio.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/src/exercicios/idade/IdadeEmDias.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/src/exercicios/multiplicacaoedivisao/Divisao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/src/exercicios/multiplicacaoedivisao/Multiplicacao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/src/exercicios/numerosparimpar/NumeroParImpar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/src/exercicios/soma/Soma.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/src/exercicios/sucessoreantecessor/Antecessor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/src/exercicios/sucessoreantecessor/Sucessor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/src/exercicios/totadacompra/TotalCompras.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercicios-java/src/exercicios/valores/ReajusteSalario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,16 +67,18 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/Repositorio GitHub/atividades-java",
+    "last_opened_file_path": "E:/Repositorio GitHub/atividades-java/src",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.stylelint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.stylelint": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "ml.llm.AIAssistantPromptsLibrary",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.archetype.catalogs",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -119,6 +101,10 @@
       <workItem from="1718668299381" duration="266000" />
       <workItem from="1718668580840" duration="2231000" />
       <workItem from="1718670863216" duration="1561000" />
+      <workItem from="1718672590130" duration="27000" />
+      <workItem from="1718747898295" duration="178000" />
+      <workItem from="1719876846990" duration="39000" />
+      <workItem from="1720216878302" duration="173000" />
     </task>
     <task id="LOCAL-00001" summary="Reestruturamos a organização dos arquivos 🗂️🔧&#10;&#10;Detalhes do Commit: Deletamos e adicionamos novos arquivos, além disso, reorganizamos e renomeamos o local de muitos arquivos para melhorar a estrutura do código-fonte, visando facilitar a manutenção e a compreensão do conteúdo em geral. ✅">
       <option name="closed" value="true" />

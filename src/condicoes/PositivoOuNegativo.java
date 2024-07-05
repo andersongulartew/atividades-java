@@ -1,4 +1,4 @@
-package src.exercicios;
+package src.condicoes;
 
 import java.util.Scanner;
 

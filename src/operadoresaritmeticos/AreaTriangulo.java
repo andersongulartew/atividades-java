@@ -1,4 +1,4 @@
-package src.exercicios.areatriangulo;
+package src.operadoresaritmeticos;
 
 import java.util.Scanner;
 
