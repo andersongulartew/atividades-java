@@ -1,4 +1,4 @@
-package src.DescontoSalario;
+package src.descontosalario;
 
 public interface DescontosParaSeremAplicados {
 

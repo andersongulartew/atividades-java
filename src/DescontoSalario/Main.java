@@ -1,4 +1,6 @@
-package src.DescontoSalario;
+package src.descontosalario;
+
+import src.descontosalario.DescontoAplicados;
 
 import java.util.Locale;
 import java.util.Scanner;

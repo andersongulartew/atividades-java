@@ -1,8 +1,10 @@
-package src.DescontoSalario;
+package src.descontosalario;
+
+import src.descontosalario.DescontosParaSeremAplicados;
 
 import java.util.Scanner;
 
-public class DescontoAplicados implements DescontosParaSeremAplicados{
+public class DescontoAplicados implements DescontosParaSeremAplicados {
     double valorPorHora;
     double quantidadeHorasTrabalhadas;
     double quantidadeDiasTrabalhados;
