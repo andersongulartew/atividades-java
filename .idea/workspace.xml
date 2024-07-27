@@ -20,6 +20,28 @@
   <component name="ChangeListManager">
     <list default="true" id="ef1454de-6217-4921-9918-d61992f21ed5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condicoes/MasculinoFeminino.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src.condicoes/MasculinoFeminino.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condicoes/MultiploDe5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src.condicoes/MultiploDe5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condicoes/PositivoOuNegativo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src.condicoes/PositivoOuNegativo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condicoes/QuantidadesDeParImpar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src.condicoes/QuantidadesDeParImpar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condicoes/Tempatura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src.condicoes/Tempatura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condicoes/TotalCompras.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src.condicoes/TotalCompras.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condicoes/ValorMaior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src.condicoes/ValorMaior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condicoes/ValoresIguais.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src.condicoes/ValoresIguais.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operadoresaritmeticos/Antecessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src.operadoresaritmeticos/Antecessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operadoresaritmeticos/AreaTriangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src.operadoresaritmeticos/AreaTriangulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operadoresaritmeticos/Converter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src.operadoresaritmeticos/Converter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operadoresaritmeticos/DadosDeUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src.operadoresaritmeticos/DadosDeUsuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operadoresaritmeticos/Divisao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src.operadoresaritmeticos/Divisao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operadoresaritmeticos/DolarParaReal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src.operadoresaritmeticos/DolarParaReal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operadoresaritmeticos/EstoqueMedio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src.operadoresaritmeticos/EstoqueMedio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operadoresaritmeticos/IdadeEmDias.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src.operadoresaritmeticos/IdadeEmDias.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operadoresaritmeticos/LerFrase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src.operadoresaritmeticos/LerFrase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operadoresaritmeticos/Multiplicacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src.operadoresaritmeticos/Multiplicacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operadoresaritmeticos/ReajusteSalario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src.operadoresaritmeticos/ReajusteSalario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operadoresaritmeticos/Saudacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src.operadoresaritmeticos/Saudacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operadoresaritmeticos/Soma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src.operadoresaritmeticos/Soma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operadoresaritmeticos/Sucessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src.operadoresaritmeticos/Sucessor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +90,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/Repositorio GitHub/atividades-java",
+    "last_opened_file_path": "E:/Repositorio GitHub/atividades-java/src",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.stylelint": "true",
     "node.js.detected.package.tslint": "true",
@@ -76,19 +98,25 @@
     "node.js.selected.package.stylelint": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
+    "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "project.kotlinCompiler",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.runner",
     "settings.editor.splitter.proportion": "0.40876657",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="open atividades-java" />
+    </option>
+  </component>
   <component name="RunManager">
     <configuration name="MasculinoFeminino" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="17" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="src.condicoes.MasculinoFeminino" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="src.condicoes.*" />
@@ -124,6 +152,12 @@
       <workItem from="1719876846990" duration="39000" />
       <workItem from="1720216878302" duration="173000" />
       <workItem from="1720222991455" duration="727000" />
+      <workItem from="1720223861077" duration="39000" />
+      <workItem from="1720223932139" duration="11000" />
+      <workItem from="1720223957719" duration="59000" />
+      <workItem from="1720224060946" duration="1609000" />
+      <workItem from="1720386500117" duration="16000" />
+      <workItem from="1722028829296" duration="105000" />
     </task>
     <task id="LOCAL-00001" summary="Reestruturamos a organização dos arquivos 🗂️🔧&#10;&#10;Detalhes do Commit: Deletamos e adicionamos novos arquivos, além disso, reorganizamos e renomeamos o local de muitos arquivos para melhorar a estrutura do código-fonte, visando facilitar a manutenção e a compreensão do conteúdo em geral. ✅">
       <option name="closed" value="true" />
@@ -144,5 +178,9 @@
     <MESSAGE value="Removeremos e adicionaremos arquivos, além de atualizar a organização de pacotes &#10;&#10;Detalhes do Commit: Novos arquivos 'PositivoOuNegativo.java', 'Saudacao.java', 'LerFrase.java', 'ValoresIguais.java', 'ValorMaior.java' e 'DadosDeUsuario.java' serão adicionados. Organização de pacotes será atualizada para alocar os arquivos diretamente em 'src/exercicios', em vez de subpastas específicas. " />
     <MESSAGE value="Reestruturamos a organização dos arquivos ️&#10;&#10;Detalhes do Commit: Deletamos e adicionamos novos arquivos, além disso, reorganizamos e renomeamos o local de muitos arquivos para melhorar a estrutura do código-fonte, visando facilitar a manutenção e a compreensão do conteúdo em geral. ✅" />
     <option name="LAST_COMMIT_MESSAGE" value="Reestruturamos a organização dos arquivos ️&#10;&#10;Detalhes do Commit: Deletamos e adicionamos novos arquivos, além disso, reorganizamos e renomeamos o local de muitos arquivos para melhorar a estrutura do código-fonte, visando facilitar a manutenção e a compreensão do conteúdo em geral. ✅" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
