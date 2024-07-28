@@ -17,6 +17,7 @@ public class DescontoAplicados implements DescontosParaSeremAplicados {
     @Override
     public double salarioBruto() {
         return valorPorHora * quantidadeHorasTrabalhadas * quantidadeDiasTrabalhados;
+
     }
     @Override
     public double descontoINSS() {
